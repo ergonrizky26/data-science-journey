@@ -12,20 +12,20 @@
 ---
 
 ## 📅 Progress Tracker
-✅ = selesai | 🔄 = sedang dikerjakan | ⏳ = belum dikerjakan
+✅ = completed | 🔄 = in progress | ⏳ = not started yet
 
-| Day | Topic                                   | Status |
-|-----|-----------------------------------------|---------|
-| 1   | Python Basics: variables, data types    | ✅ |
-| 2   | Lists, tuples, sets                     | ✅ |
-| 3   | Control flow (if, loops)                | ⏳ |
-| 4   | Functions                               | ⏳ |
-| 5   | Numpy Basics                            | ⏳ |
-| 6   | Pandas Basics                           | ⏳ |
-| 7   | Data Visualization (Matplotlib, Seaborn)| ⏳ |
-| 8   | Exploratory Data Analysis (EDA)         | ⏳ |
-| 9   | Machine Learning Basics                 | ⏳ |
-| 10  | Mini Project                            | ⏳ |
+| Day | Topic                                               | Status |
+|-----|-----------------------------------------------------|--------|
+| 1   | Python Basics: variables, data types                  | ✅ |
+| 2   | Lists, tuples, sets                                   | ✅ |
+| 3   | Control flow (if, loops, IN statement)                | ⏳ |
+| 4   | Functions                                             | ⏳ |
+| 5   | Numpy Basics                                          | ⏳ |
+| 6   | Pandas Basics                                         | ⏳ |
+| 7   | Data Visualization (Matplotlib, Seaborn)              | ⏳ |
+| 8   | Exploratory Data Analysis (EDA)                       | ⏳ |
+| 9   | Machine Learning Basics                               | ⏳ |
+| 10  | Mini Project                                          | ⏳ |
 
 ---
 
