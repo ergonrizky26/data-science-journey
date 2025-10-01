@@ -5,9 +5,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ergonrizky26/data-science-journey)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ergonrizky26/data-science-journey)
 
-## 📊 Overall Progress
-
-![Progress](https://img.shields.io/badge/Progress-20%25-brightgreen?style=for-the-badge)
 
 
 > 📘 3-month intensive **Data Science learning journey** with daily progress tracking.
