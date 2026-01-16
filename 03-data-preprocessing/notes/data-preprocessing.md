@@ -31,4 +31,9 @@ Secara garis besar, data preprocessing dibagi menjadi :
 1. **Data Joining**
 2. **Data Cleaning**
 3. **Train Test Split**
-4. **Missing Value Handling**
+4. **Missing Value Handling**  
+  
+#### Data Joining
+
+#### Train Test Split
+
